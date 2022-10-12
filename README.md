@@ -5,11 +5,11 @@
 
 ### <h1 align="center"> About 📄 </h1>
 
-Script to follow or unfollow users from the current GitHub page.
+Script to follow or unfollow users from the current GitHub page.<br>
 
 ### <h1 align="center"> Information ℹ </h1>
 
-Empty.
+Empty.<br>
 
 ### <h1 align="center"> How to use 👨‍💻 </h1>
 

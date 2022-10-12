@@ -9,7 +9,7 @@ Script para seguir ou deixar de seguir usuários da página atual do GitHub.<br>
 
 ### <h1 align="center"> Informação ℹ </h1>
 
-Vazio. <br>
+Vazio.<br>
 
 ### <h1 align="center"> Como usar 👨‍💻 </h1>
 
@@ -22,6 +22,6 @@ Vazio. <br>
 
 - Ao acessar a página, você verá um botão do lado esquerdo que vai te permitir seguir ou deixar de seguir os usuários. <br>
 
-- Para saber mais sobre o script, basta clicar em "About".
+- Para saber mais sobre o script, basta clicar em "Sobre".
 
 ![TamperMonkey](https://user-images.githubusercontent.com/3022180/83837129-68bba300-a6aa-11ea-8635-eebb48de7bae.png)
