@@ -18,6 +18,7 @@ Vazio. <br>
 - Após instalar o [Tampermonkey](https://tampermonkey.net/), você precisa adicionar o script no Tampermonkey, ou [clique aqui](extension://iikmkjmpaadaobahmlepeloendndfphd/options.html#nav=dashboard) para ir direto à página de scripts do Tampermonkey, mas, caso não abra a página corretamente, basta clicar no ícone da extensão e clicar em "Adicionar novo script". <br>
 
 - Para usar, basta abrir o [GitHub](https://github.com/) e ir aos seus seguidores/seguindo, ou no perfil de quem você quer seguir os seguidores. <br>
+  (Algo assim: https://github.com/SeuUsuario?tab=followers)<br>
 
 - Ao acessar a página, você verá um botão do lado esquerdo que vai te permitir seguir ou deixar de seguir os usuários. <br>
 

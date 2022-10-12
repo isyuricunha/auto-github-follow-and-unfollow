@@ -18,6 +18,7 @@ Empty.
 - After installing [Tampermonkey](https://tampermonkey.net/), you need to add the script in Tampermonkey, or [click here](extension://iikmkjmpaadaobahmlpeloendndfphd/options.html#nav=dashboard) to go straight to the Tampermonkey scripts page, but if it doesn't open properly, just click the extension icon and click "Add New Script".<br>
 
 - To use, just open [GitHub](https://github.com/) and go to your followers/following, or on the profile of whoever you want to follow the followers.<br>
+  (Looks like: https://github.com/YourUsername?tab=followers)<br>
 
 - When accessing the page, you will see a button on the left that will allow you to follow or unfollow users.<br>
 
