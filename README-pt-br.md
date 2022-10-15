@@ -26,6 +26,8 @@ Vazio.<br>
 
 - Você verá duas opções assim: 
 
-![Options](https://cdn.discordapp.com/attachments/1029239636259782713/1030736203265363988/unknown.png)
+<img src="https://cdn.discordapp.com/attachments/1029239636259782713/1030736203265363988/unknown.png" alt="Example with my profile" width="200"/>
 
-- Versões do TamperMonkey: ![TamperMonkey](https://user-images.githubusercontent.com/3022180/83837129-68bba300-a6aa-11ea-8635-eebb48de7bae.png)
+- Versões do TamperMonkey: 
+
+<img src="https://user-images.githubusercontent.com/3022180/83837129-68bba300-a6aa-11ea-8635-eebb48de7bae.png" alt="TamperMonkey" width="200"/>
