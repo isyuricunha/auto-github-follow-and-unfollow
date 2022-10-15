@@ -30,4 +30,4 @@ Vazio.<br>
 
 - Versões do TamperMonkey: 
 
-<img src="https://user-images.githubusercontent.com/3022180/83837129-68bba300-a6aa-11ea-8635-eebb48de7bae.png" alt="TamperMonkey" width="400"/>
+<img src="https://user-images.githubusercontent.com/3022180/83837129-68bba300-a6aa-11ea-8635-eebb48de7bae.png" alt="TamperMonkey" width="600"/>
