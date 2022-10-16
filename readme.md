@@ -24,10 +24,14 @@ Empty.<br>
 
 - To learn more about the script, just click "About".<br>
 
-- You will see two option. Looks like it: 
+- You will see two option. Looks like it:
 
 <img src="https://cdn.discordapp.com/attachments/1029239636259782713/1030736203265363988/unknown.png" alt="Example with my profile" width="200"/>
 
-- TamperMonkey versions: 
+- TamperMonkey versions:
 
 <img src="https://user-images.githubusercontent.com/3022180/83837129-68bba300-a6aa-11ea-8635-eebb48de7bae.png" alt="TamperMonkey" width="600"/>
+
+This extension/script works on any browser based on Chromium and Mozilla Firefox.
+
+Chromium based like a Google Chrome, Microsoft Edge, Brave.

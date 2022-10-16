@@ -24,10 +24,14 @@ Vazio.<br>
 
 - Para saber mais sobre o script, basta clicar em "Sobre".
 
-- Você verá duas opções assim: 
+- Você verá duas opções assim:
 
 <img src="https://cdn.discordapp.com/attachments/1029239636259782713/1030736203265363988/unknown.png" alt="Example with my profile" width="200"/>
 
-- Versões do TamperMonkey: 
+- Versões do TamperMonkey:
 
 <img src="https://user-images.githubusercontent.com/3022180/83837129-68bba300-a6aa-11ea-8635-eebb48de7bae.png" alt="TamperMonkey" width="600"/>
+
+Essa extensão funciona em qualquer navegador baseado no Chromium e Mozilla Firefox.
+
+Navegadores baseados em Chromium, como Google Chrome, Microsoft Edge, Brave.
