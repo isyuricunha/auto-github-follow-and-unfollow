@@ -1,6 +1,6 @@
-###### Yuri Cunha Personal License
+Yuri Cunha Personal License
 
-## <h1 align="center">License</h1>
+# License
 
 1. You are free to use this code as inspiration.
 2. Please do not copy large parts of it directly.
