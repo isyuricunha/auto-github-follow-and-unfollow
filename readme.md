@@ -9,7 +9,7 @@ Script to follow or unfollow users from the current GitHub page.<br>
 
 ### <h1 align="center"> Information ℹ </h1>
 
-I write a second version and you can see [here](https://github.com/isyuricunha/github-follow-bot).<br>
+Have a second version and you can see [here](https://github.com/isyuricunha/github-follow-bot).<br>
 
 ### <h1 align="center"> How to use 👨‍💻 </h1>
 
