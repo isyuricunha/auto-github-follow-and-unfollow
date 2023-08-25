@@ -4,7 +4,7 @@
 // @version      0.1
 // @license      MIT License
 // @description  follows all users in current users profile
-// @author       Leonid Fedotov
+// @author       isyuricunha
 // @match        https://github.com/*
 // @icon         https://www.google.com/s2/favicons?domain=github.com
 // ==/UserScript==
