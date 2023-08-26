@@ -12,7 +12,7 @@ The User is granted the freedom to utilize this code as a source of inspiration 
 
 ### 2. Restrictions on Direct Copying
 
-While the User is encouraged to learn from the code, direct copying of substantial portions of the codebase is prohibited. Small code snippets may be extracted for use, but wholesale replication is not permitted.
+While the User is encouraged to learn from the code, direct copying of substantial portions of the codebase is prohibited. Small code snippets may be extracted for use, but wholesale replication is not permitted. If you copy large or substantial parte, credit the Author.
 
 ### 3. Crediting the Author
 
